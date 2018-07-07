@@ -1,5 +1,5 @@
 # Qbot Documentation
-######by Worried 2018
+###### by Worried 2018
 
 A small side-project to play with Google Cloud APIs, specifically Vision, Language, and Machine Learning. Let's answer some questions!
 
